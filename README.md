@@ -251,13 +251,6 @@ flutter run --debug
 
 This project is proprietary software developed for Solar Burji business management.
 
-## 📞 Support
-
-For technical support or customization requests:
-- **Email**: [Your Email]
-- **Phone**: [Your Phone]
-- **WhatsApp**: [Your WhatsApp]
-
 ## 🔄 Version History
 
 - **v1.0.0** - Initial release with sales, borrowings, and solar monitoring
