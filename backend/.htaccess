@@ -1,0 +1,5 @@
+# If using Apache, route to PHP front controllers
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^api/(.*)$ api/$1 [L]
+RewriteRule ^$ public/index.php [L]
